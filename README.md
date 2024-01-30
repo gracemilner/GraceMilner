@@ -9,8 +9,8 @@ I'm a MSc graduate in GIS and Remote Sensing, passionate about geospatial scienc
 
 
 ## About me
-🎓&nbsp;Master's degree in **GIS and Remote Sensing**, Bachelor's degree in **Geography**
-<br/>💡&nbsp;Interested in **Geospatial Science** and **Earth Observation**
+🎓&nbsp;MSc in **GIS and Remote Sensing**, BSc degree in **Geography**
+<br/>💡&nbsp;Interested in **Geospatial Science**, **Earth Observation**, and **Data-Driven Decision-Making**
 <br/>📫&nbsp;Contact me here: [gracemilner01@gmail.com](mailto:gracemilner01@gmail.com)
 <br/>🌎&nbsp;Visit my Portfolio: https://gracemilnerportfolio.wixsite.com/home
 
